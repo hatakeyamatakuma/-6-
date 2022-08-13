@@ -262,7 +262,7 @@ tr th:first-child {
     justify-content: center;
     align-items: center;
     z-index: 90;
-    background-color: #ffffff;
+    background: #ffffff;
     border: solid 1px #777;
   }
   .menu-btn span:before {
